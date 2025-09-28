@@ -1,6 +1,7 @@
 module.exports = {
-  title: 'Aland Anees\' Portfolio',
+  title: 'Aland\'s Portfolio',
   description: 'My portfolio',
+  base: '/Aland-s-portfolio/', // Add this line - must match your repo name exactly
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },

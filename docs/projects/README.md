@@ -28,4 +28,4 @@ A full and complete library database both functional and efficient.
 
 The website you're currently viewing! Built with VuePress for optimal performance and SEO.
 
-[GitHub](https://github.com/yourusername/portfolio)
+[GitHub](https://github.com/alandanees/Aland-s-portfolio)

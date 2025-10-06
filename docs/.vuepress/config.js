@@ -4,7 +4,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
   lang: 'en-US',
-  base: '/',  // Must match your repo name exactly
+  base: '/Aland-s-portfolio/',  // Must match your repo name exactly
   ignoreDeadLinks: true,
  
   title: 'Aland\'s Portfolio',

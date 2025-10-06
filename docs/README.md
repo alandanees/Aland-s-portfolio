@@ -8,9 +8,9 @@ This portfolio showcases my skills, projects, and experience as a frontend devel
 
 ## Quick Links
 
-- [About](/about) - Learn more about my background and skills
-- [My Projects](/projects) - View my recent work and projects
-- [Contact](/contact) - Get in touch with me
+- [About](./about/README.md) - Learn more about my background and skills
+- [Projects](./projects/README.md) - View my recent work and projects
+- [Contact](./contact/README.md) - Get in touch with me
 
 ---
 

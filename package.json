@@ -8,7 +8,10 @@
     "build": "vuepress build docs",
     "clean-dev": "vuepress dev docs --clean-cache",
     "dev": "vuepress dev docs",
-    "update-package": "npx vp-update"
+    "update-package": "npx vp-update",
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.20",

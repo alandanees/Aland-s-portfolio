@@ -6,9 +6,7 @@ export default defineUserConfig({
   lang: 'en-US',
   base: '/Aland-s-portfolio/',  // Must match your repo name exactly
   ignoreDeadLinks: true,
-  rewrites:{
-    'README.md': 'index.md',
-  },
+ 
   title: 'Aland\'s Portfolio',
   description: 'Aland Anees - Software Engineering Student & Frontend Developer',
 

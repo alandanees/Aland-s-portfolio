@@ -5,11 +5,11 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-  "build": "vitepress build docs",
-  "clean-dev": "vuepress dev docs --clean-cache",
-  "dev": "vitepress dev docs",
-  "update-package": "npx vp-update",
-  "preview": "vitepress preview docs"
+    "build": "vuepress build docs",
+    "dev": "vuepress dev docs",
+    "preview": "vuepress preview docs",
+    "clean-dev": "vuepress dev docs --clean-cache",
+    "update-package": "npx vp-update"
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.20",
